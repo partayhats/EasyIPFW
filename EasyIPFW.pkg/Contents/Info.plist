@@ -5,19 +5,19 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleGetInfoString</key>
-	<string>EasyIPFW 1.1a © 2012 Evan Peck and WAMS</string>
+	<string>EasyIPFW 1.0a © 2012 Evan Peck and WAMS</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.partayhats.easyipfw.pkg.EasyIPFW</string>
+	<string>com.wams.evan.easyipfw.pkg.EasyIPFW</string>
 	<key>CFBundleName</key>
 	<string>EasyIPFW</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1a</string>
+	<string>1.0a</string>
 	<key>IFMajorVersion</key>
 	<integer>1</integer>
 	<key>IFMinorVersion</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>IFPkgBuildDate</key>
-	<date>2012-08-17T16:57:08Z</date>
+	<date>2012-08-16T14:14:06Z</date>
 	<key>IFPkgBuildVersion</key>
 	<string>9L31a</string>
 	<key>IFPkgCreator</key>
@@ -26,16 +26,12 @@
 	<false/>
 	<key>IFPkgFlagAuthorizationAction</key>
 	<string>RootAuthorization</string>
-	<key>IFPkgFlagBackgroundAlignment</key>
-	<string>left</string>
-	<key>IFPkgFlagBackgroundScaling</key>
-	<string>tofit</string>
 	<key>IFPkgFlagDefaultLocation</key>
 	<string>/</string>
 	<key>IFPkgFlagFollowLinks</key>
 	<false/>
 	<key>IFPkgFlagInstalledSize</key>
-	<integer>100</integer>
+	<integer>32</integer>
 	<key>IFPkgFlagIsRequired</key>
 	<true/>
 	<key>IFPkgFlagOverwritePermissions</key>
