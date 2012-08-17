@@ -1,0 +1,17 @@
+Title EasyIPFW
+Version 1.0a
+Description EasyIPFW is a lightweight, easy to setup firewall based on the BSD ipfw program that comes with Mac OSX.
+DefaultLocation /
+DeleteWarning 
+
+### Package Flags
+
+NeedsAuthorization YES
+Required YES
+Relocatable NO
+RequiresReboot YES
+UseUserMask NO
+OverwritePermissions NO
+AllowBackRev NO
+RootVolumeOnly NO
+OnlyUpdateInstalledLanguages NO
