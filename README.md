@@ -8,7 +8,7 @@
 
 >## The Files ##
 
-**/Library/StartupItems/EasyIPFW/EasyIPFW** controls the start, stopping, and restarting of the EasyIPFW services. This is the file qued up at boot.
+**/Library/StartupItems/EasyIPFW/EasyIPFW** controls the start, stopping, and restarting of the EasyIPFW services. This is the file cued up at boot.
 
 **/Library/StartupItems/EasyIPFW/StartupParameters.plist** gives OS X information about how to load EasyIPFW.
 
